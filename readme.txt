@@ -1,4 +1,4 @@
-Para utilizar voce precisara deo Python 3.12 (versão em que a aplicação foi construida) e as seguintes Bibliotecas: 
+Para utilizar voce precisara do Python 3.12 (versão em que a aplicação foi construida) e as seguintes Bibliotecas: 
 
  As seguintes bibliotecas serao instaladas:
  - pandas (Manipulacao de dados)
