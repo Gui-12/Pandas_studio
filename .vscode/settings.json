@@ -1,0 +1,6 @@
+{
+    "powerquery.client.additionalSymbolsDirectories": [
+        "c:/Users/Grupo Easy/Documents/projetos/pandas/.vscode/excel-pq-symbols",
+        "c:/Users/Grupo Easy/Documents/projetos/pandas_studio/.vscode/excel-pq-symbols"
+    ]
+}
